@@ -136,26 +136,26 @@ header nav a:hover {
     justify-content: center;
 }
 .middle-content .boxes .box1{
-    background:teal;
+    background:red;
 } 
 
 .middle-content .boxes .box2{
-    background:gold;
+    background:greenyellow;
 }
 
 .middle-content .boxes .box3 {
-    background:cadetblue;
+    background:coral;
 } 
 
 .middle-content .boxes .box4 {
-    background:coral;
+    background:blueviolet;
 } 
 .middle-content .boxes .box5 {
     background:crimson; 
 } 
 
 .middle-content .boxes .box6 {
-    background:forestgreen;
+    background:green;
 } 
 .middle-content .boxes .box7 {
     background:darkorchid;
@@ -170,21 +170,11 @@ header nav a:hover {
 }
 
 .middle-content .boxes.box10 {
-    background:dodgerblue;
+    background:darkcyan;
 }
 
 .bottom-content {
-    display: flex;
-    margin: 0 2% 20px;
-    justify-content: space-around;
-}
-
-.bottom-content .text-container {
-    padding-right: 4%;
-}
-
-.bottom-content .text-container:last-child {
-    padding-right: 0;
+    padding: 0 20px;
 }
 
 /*****FOOTER*****/
